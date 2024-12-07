@@ -1,0 +1,237 @@
+sell 1091 100.69 2
+print buy
+print sell
+sell 1066 99.82 9
+print buy
+print sell
+sell 932 100.35 7
+print buy
+print sell
+buy 1046 99.28 6
+print buy
+print sell
+sell 1016 100.29 3
+print buy
+print sell
+sell 867 100.57 7
+print buy
+print sell
+sell 822 100.17 2
+print buy
+print sell
+sell 891 100.89 6
+print buy
+print sell
+buy 1027 99.96 1
+print buy
+print sell
+buy 968 99.69 7
+print buy
+print sell
+sell 918 99.99 9
+print buy
+print sell
+buy 858 100.69 8
+print buy
+print sell
+sell 848 99.82 4
+print buy
+print sell
+buy 897 99.83 5
+print buy
+print sell
+buy 1002 100.45 5
+print buy
+print sell
+sell 1051 99.26 7
+print buy
+print sell
+buy 1123 100.17 9
+print buy
+print sell
+buy 947 99.56 4
+print buy
+print sell
+buy 1066 99.58 0
+print buy
+print sell
+buy 992 100.95 8
+print buy
+print sell
+sell 996 100.25 5
+print buy
+print sell
+buy 1174 100.01 6
+print buy
+print sell
+sell 837 100.93 7
+print buy
+print sell
+sell 955 100.56 9
+print buy
+print sell
+sell 864 98.94 7
+print buy
+print sell
+buy 933 99.97 9
+print buy
+print sell
+sell 1063 100.27 9
+print buy
+print sell
+sell 1033 100.29 6
+print buy
+print sell
+sell 934 100.95 0
+print buy
+print sell
+buy 1052 99.72 6
+print buy
+print sell
+buy 921 100.3 1
+print buy
+print sell
+buy 862 100.21 6
+print buy
+print sell
+sell 893 101.21 1
+print buy
+print sell
+buy 1063 100.48 2
+print buy
+print sell
+buy 949 99.58 8
+print buy
+print sell
+sell 970 100.13 8
+print buy
+print sell
+sell 978 99.72 1
+print buy
+print sell
+buy 1010 99.91 8
+print buy
+print sell
+buy 982 100.34 5
+print buy
+print sell
+buy 974 99.7 0
+print buy
+print sell
+buy 893 100.26 0
+print buy
+print sell
+buy 1087 100.21 6
+print buy
+print sell
+buy 856 100.18 9
+print buy
+print sell
+buy 810 99.66 9
+print buy
+print sell
+sell 1029 99.89 2
+print buy
+print sell
+buy 860 99.88 4
+print buy
+print sell
+sell 1013 100.2 3
+print buy
+print sell
+sell 1011 100.16 7
+print buy
+print sell
+sell 1089 99.6 4
+print buy
+print sell
+buy 945 99.18 6
+print buy
+print sell
+buy 1051 100.21 8
+print buy
+print sell
+buy 1122 100.83 8
+print buy
+print sell
+buy 1067 99.78 9
+print buy
+print sell
+buy 927 100.04 2
+print buy
+print sell
+sell 930 99.32 7
+print buy
+print sell
+sell 835 100.32 8
+print buy
+print sell
+buy 1030 100.45 0
+print buy
+print sell
+sell 1097 100.64 4
+print buy
+print sell
+buy 902 99.48 7
+print buy
+print sell
+buy 1150 100.42 0
+print buy
+print sell
+buy 1046 100.33 7
+print buy
+print sell
+sell 916 100.96 9
+print buy
+print sell
+buy 940 100.14 4
+print buy
+print sell
+buy 1068 100.1 5
+print buy
+print sell
+buy 839 99.81 8
+print buy
+print sell
+buy 1036 101.07 2
+print buy
+print sell
+buy 1141 99.96 0
+print buy
+print sell
+buy 979 99.46 6
+print buy
+print sell
+sell 778 99.89 1
+print buy
+print sell
+sell 988 100.05 5
+print buy
+print sell
+buy 1078 100.02 5
+print buy
+print sell
+sell 875 100.37 9
+print buy
+print sell
+buy 997 99.92 3
+print buy
+print sell
+buy 939 100.02 5
+print buy
+print sell
+sell 1066 100.11 4
+print buy
+print sell
+buy 1081 99.77 2
+print buy
+print sell
+sell 957 100.38 6
+print buy
+print sell
+buy 1030 100.56 7
+print buy
+print sell
+buy 1097 100.84 6
+print buy
+print sell
